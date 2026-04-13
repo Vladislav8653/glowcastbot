@@ -1,0 +1,5 @@
+flask
+python-dotenv
+paho-mqtt
+Pillow
+python-telegram-bot
